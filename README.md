@@ -5,5 +5,5 @@ I learn HTML,CSS,JS,Bootstrap,React,DOM
 
 My Projects:
 * [VenomCheat Website](https://matterdev.github.io/VenomCheat)
-* [Simple Landing Page](https://matterdev.github.io/-Landing-Page)
+* [Simple Landing Page](https://matterdev.github.io/Minimalist-Landing-Page)
 * [Axeprime.xyz Website](https://matterdev.github.io/Axeprime.xyz)
